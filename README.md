@@ -5,15 +5,11 @@
     <img src="https://i.pinimg.com/736x/2c/55/d4/2c55d40555bd6bafcdab23d2751fe1f0.jpg" width="30"/>
   </h1>
   <div id="badges" align="center">
-    <a href="https://linkedin.com/in/ssalomaolais" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
     <a href="mailto:ssalomaolais@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=ssalomaolais&style=flat-square&color=blueviolet" alt=""/>
-</div>
+
 
 ---
 
