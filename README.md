@@ -23,6 +23,9 @@ I am a passionate and proactive Software Engineer with a self-taught journey in 
 
 ---
 
+### 🛠️ Skills & Technologies
+
+Here are some of the technologies I've been working with:
 <div align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot"/>
