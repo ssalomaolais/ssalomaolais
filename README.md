@@ -17,6 +17,8 @@
   <p>
     I am a passionate and proactive Software Engineer with a self-taught journey in Java, focused on transforming business needs into high-quality software solutions. I am skilled in collaborating with cross-functional teams and have a strong foundation in software architecture and agile methodologies.
   </p>
+</div>
+<div align="left">
   - 🎓 I have a Technologist in Informatics degree from **Senac São Paulo** and I'm currently pursuing a Bachelor's in Computer Science at **FIAP**, expected to graduate in December 2028. <br>
   - 🌱 I’m currently learning more about scalable infrastructures, cloud fundamentals, and GKE. <br>
   - 💬 Ask me about **Java, Spring Boot, Python, and C++**. <br>
