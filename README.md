@@ -29,7 +29,7 @@
 ---
 
 <div align="center">
-  ###🛠️ Skills & Technologies
+  <h3>🛠️ Skills & Technologies</h3>
 
 Here are some of the technologies I've been working with:
 
