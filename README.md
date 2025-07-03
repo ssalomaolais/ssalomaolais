@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://i.pinimg.com/originals/d9/63/a3/d963a3be86c3624aac4bc03c8a7d62aa.gif" width="100"/>
+  <img src="https://i.pinimg.com/originals/e2/36/85/e23685e9fc4ac271d627afc267acba5b.gif" width="100"/>
   <h1>
     Hi, I'm Laís
   </h1>
