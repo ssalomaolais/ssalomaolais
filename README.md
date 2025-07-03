@@ -21,11 +21,10 @@
 
 I am a passionate and proactive Software Engineer with a self-taught journey in Java, focused on transforming business needs into high-quality software solutions. I am skilled in collaborating with cross-functional teams and have a strong foundation in software architecture and agile methodologies.
 
-- [cite_start]🎓 I have a Technologist in Informatics degree from **Senac São Paulo** [cite: 12, 13] [cite_start]and I'm currently pursuing a Bachelor's in Computer Science at **FIAP**, expected to graduate in December 2028. [cite: 10, 11]
-- [cite_start]🌱 I’m currently learning more about scalable infrastructures, cloud fundamentals, and GKE. [cite: 22]
-- [cite_start]💬 Ask me about **Java, Spring Boot, Python, and C++**. [cite: 26]
-- [cite_start]📫 How to reach me: **ssalomaolais@gmail.com** [cite: 3]
-
+- 🎓 I have a Technologist in Informatics degree from **Senac São Paulo** and I'm currently pursuing a Bachelor's in Computer Science at **FIAP**, expected to graduate in December 2028. 
+- 🌱 I’m currently learning more about scalable infrastructures, cloud fundamentals, and GKE. 
+- 💬 Ask me about **Java, Spring Boot, Python, and C++**. 
+- 📫 How to reach me: **ssalomaolais@gmail.com** 
 ---
 
 ### 🛠️ Skills & Technologies
@@ -46,10 +45,7 @@ Here are some of the technologies I've been working with:
 
 ### 📊 My GitHub Stats
 
-These cards automatically update to show my latest GitHub activity.
+This card automatically update to show my latest GitHub activity.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ssalomaolais&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Laís's GitHub Stats"/>
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssalomaolais&layout=compact&langs_count=8&theme=dracula" alt="Laís's Top Languages"/>
 </div>
