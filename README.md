@@ -25,16 +25,14 @@ I am a passionate and proactive Software Engineer with a self-taught journey in 
 
 ### 🛠️ Skills & Technologies
 
-Here are some of the technologies I've been working with:
-
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="40" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" height="40" alt="Spring"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain-wordmark.svg" height="40" alt="Kubernetes"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" height="40" alt="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" height="40" alt="Git"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/java-plain.svg" height="40" alt="Java"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/spring-plain.svg" height="40" alt="Spring"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/python-plain.svg" height="40" alt="Python"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/cplusplus-plain.svg" height="40" alt="C++"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/kubernetes-plain.svg" height="40" alt="Kubernetes"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/postgresql-plain.svg" height="40" alt="PostgreSQL"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/git-plain.svg" height="40" alt="Git"/>
 </div>
 
 ---
