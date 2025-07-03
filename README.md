@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://i.pinimg.com/736x/59/f2/8e/59f28ef58618d16c02789d445803c3cf.jpg" width="100"/>
+  <img src="https://i.pinimg.com/originals/ec/23/78/ec2378d8b2131a5a233eda259f2afb7d.gif" width="100"/>
   <h1>
     Hi, I'm Laís
   </h1>
@@ -13,11 +13,12 @@
 ---
 
 <div align="center">
-  <h3>:woman_technologist: About Me</h3>
+  <h3>👩‍💻 About Me</h3>
   <p>
     I am a passionate and proactive Software Engineer with a self-taught journey in Java, focused on transforming business needs into high-quality software solutions. I am skilled in collaborating with cross-functional teams and have a strong foundation in software architecture and agile methodologies.
   </p>
 </div>
+<br>
 <div align="left">
   - 🎓 I have a Technologist in Informatics degree from **Senac São Paulo** and I'm currently pursuing a Bachelor's in Computer Science at **FIAP**, expected to graduate in December 2028. <br>
   - 🌱 I’m currently learning more about scalable infrastructures, cloud fundamentals, and GKE. <br>
