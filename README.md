@@ -1,8 +1,8 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9hFsxmaQqupa/giphy.gif" width="100"/>
   <h1>
-    Hi, I'm Laís Salomão 
-    <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+    Hi, I'm Laís
+    <img src="https://i.pinimg.com/736x/2f/49/34/2f49347272440be56744e8f67d51fa64.jpg" width="30"/>
   </h1>
   <div id="badges" align="center">
     <a href="https://linkedin.com/in/ssalomaolais" target="_blank">
@@ -19,7 +19,7 @@
 
 ### :woman_technologist: About Me
 
-[cite_start]I am a passionate and proactive Software Engineer with a self-taught journey in Java, focused on transforming business needs into high-quality software solutions. [cite: 7] [cite_start]I am skilled in collaborating with cross-functional teams and have a strong foundation in software architecture and agile methodologies. [cite: 8]
+I am a passionate and proactive Software Engineer with a self-taught journey in Java, focused on transforming business needs into high-quality software solutions. I am skilled in collaborating with cross-functional teams and have a strong foundation in software architecture and agile methodologies.
 
 - [cite_start]🎓 I have a Technologist in Informatics degree from **Senac São Paulo** [cite: 12, 13] [cite_start]and I'm currently pursuing a Bachelor's in Computer Science at **FIAP**, expected to graduate in December 2028. [cite: 10, 11]
 - [cite_start]🌱 I’m currently learning more about scalable infrastructures, cloud fundamentals, and GKE. [cite: 22]
