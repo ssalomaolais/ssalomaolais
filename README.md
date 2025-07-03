@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9hFsxmaQqupa/giphy.gif" width="100"/>
   <h1>
     Hi, I'm Laís
-    <img src="https://i.pinimg.com/736x/2f/49/34/2f49347272440be56744e8f67d51fa64.jpg" width="30"/>
+    <img src="https://i.pinimg.com/736x/59/f2/8e/59f28ef58618d16c02789d445803c3cf.jpg" width="30"/>
   </h1>
   <div id="badges" align="center">
     <a href="https://linkedin.com/in/ssalomaolais" target="_blank">
