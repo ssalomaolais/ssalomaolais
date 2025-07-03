@@ -21,7 +21,7 @@ I am a passionate and proactive Software Engineer with a self-taught journey in 
 - 🌱 I’m currently learning more about scalable infrastructures, cloud fundamentals, and GKE. 
 - 💬 Ask me about **Java, Spring Boot, Python, and C++**. 
 - 📫 How to reach me: **ssalomaolais@gmail.com** 
-</p>
+
 </div>
 
 ---
