@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://i.pinimg.com/originals/e2/36/85/e23685e9fc4ac271d627afc267acba5b.gif" width="100"/>
   <h1>
-    Hi, I'm Laís
+    Olá, eu sou a Laís
   </h1>
   <div id="badges">
     <a href="mailto:ssalomaolais@gmail.com">
@@ -13,24 +13,24 @@
 ---
 
 <div align="center">
-  <h3>👩‍💻 About Me</h3>
+  <h3>👩‍💻 Sobre Mim</h3>
   <p>
-    I am a passionate and proactive Software Engineer with a self-taught journey in Java, focused on transforming business needs into high-quality software solutions. I am skilled in collaborating with cross-functional teams and have a strong foundation in software architecture and agile methodologies.
+    Sou uma Engenheira de Software apaixonada e proativa, com uma jornada autodidata em Java, focada em transformar necessidades de negócio em soluções de software de alta qualidade. Tenho habilidade em colaborar com equipes multifuncionais e possuo uma base sólida em arquitetura de software e metodologias ágeis.
   </p>
 </div>
 
 <br>
 
-- 🎓 I have a Technologist in Informatics degree from **Senac São Paulo** and I'm currently pursuing a Bachelor's in Computer Science at **FIAP**, expected to graduate in December 2028.
-- 🌱 I’m currently learning more about scalable infrastructures, cloud fundamentals, and GKE.
-- 💬 Ask me about **Java, Spring Boot, Python, and C++**.
-- 📫 How to reach me: **ssalomaolais@gmail.com**
+- 🎓 Sou formada como Tecnóloga em Informática pelo **Senac São Paulo** e atualmente estou cursando Bacharelado em Ciência da Computação na **FIAP**, com previsão de formatura para Dezembro de 2028.
+- 🌱 Atualmente estou aprendendo mais sobre infraestruturas escaláveis, fundamentos de nuvem e GKE.
+- 💬 Me pergunte sobre **Java, Spring Boot, Python e C++**.
+- 📫 Como me encontrar: **ssalomaolais@gmail.com**
 
 ---
 
 <div align="center">
-  <h3>🛠️ Skills & Technologies</h3>
-  <p>Here are some of the technologies I've been working with:</p>
+  <h3>🛠️ Habilidades & Tecnologias</h3>
+  <p>Aqui estão algumas das tecnologias com as quais tenho trabalhado:</p>
 
   <h4>Backend</h4>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
@@ -48,12 +48,17 @@
   <h4>DevOps & Tools</h4>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+
+  <h4>Business Intelligence & Plataformas</h4>
+  <img src="https://img.shields.io/badge/SAP-008FD3?style=for-the-badge&logo=sap&logoColor=white" alt="SAP"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" alt="Microsoft Office"/>
 </div>
 
 ---
 
 <div align="center">
-  <h3>📊 My GitHub Stats</h3>
-  <p>This card automatically updates to show my latest GitHub activity.</p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssalomaolais&layout=compact&langs_count=8&theme=dracula" alt="Laís's Top Languages"/>
+  <h3>📊 Minhas Estatísticas do GitHub</h3>
+  <p>Este card é atualizado automaticamente para mostrar minha atividade mais recente no GitHub.</p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssalomaolais&layout=compact&langs_count=8&theme=dracula" alt="Principais Linguagens de Laís"/>
 </div>
