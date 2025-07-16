@@ -23,7 +23,7 @@
 
 - 🎓 Sou formada como Tecnóloga em Informática pelo **Senac São Paulo** e atualmente estou cursando Bacharelado em Ciência da Computação na **FIAP**, com previsão de formatura para Dezembro de 2028.
 - 🌱 Atualmente estou aprendendo mais sobre infraestruturas escaláveis, fundamentos de nuvem e GKE.
-- 💬 Me pergunte sobre **Java, Spring Boot, Python e C++**.
+- 💬 Me pergunte sobre **Java, SAP, Python e Análise de Dados**.
 - 📫 Como me encontrar: **ssalomaolais@gmail.com**
 
 ---
