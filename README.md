@@ -52,7 +52,7 @@
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud"/>
 
   <h4>Business Intelligence & Plataformas</h4>
-  <img src="https://img.shields.io/badge/SAP-008FD3?style=for-the-badge&logo=sap&logoColor=white" alt="SAP"/>>
+  <img src="https://img.shields.io/badge/SAP-008FD3?style=for-the-badge&logo=sap&logoColor=white" alt="SAP"/>
 <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark"/>
   
 
